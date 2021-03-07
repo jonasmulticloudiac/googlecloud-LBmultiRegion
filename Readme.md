@@ -8,6 +8,6 @@
 
 > O road-map resumo deste cenario pode ser visto seguindo o link abaixo
 
-PArte 01 | 
------------- | ------------- | -------------
-
+Video 01                      | Video 02                      |  Road-map
+----------------------------- | ----------------------------- | -------------
+http://bit.ly/vid01-cloudun   | http://bit.ly/vid02-cloudrun  |  https://bit.ly/pdf-cloudrun

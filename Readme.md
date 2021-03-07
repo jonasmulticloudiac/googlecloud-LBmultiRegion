@@ -5,11 +5,11 @@
 > Estar com as credenciais da sua conta exportadas no seu ambiente ou em um arquivo.json :
 
 > Criar os workspaces - region e global
-[terraform workspace new region]
-[terraform workspace new global]
+### terraform workspace new region
+### terraform workspace new global
 
 > Selecionar o workspace desejado { region | global } e alterar as variaveis necessárias executando o arquivo script.sh 
-# terraform workspace select region  &&  script.sh__
+### terraform workspace select region  &&  script.sh__
 
 > Alterar as variaveis nos arquivos de { dns |  variables | provider }  de acordo com a sua necessidade.
 

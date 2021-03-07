@@ -1,12 +1,12 @@
-## Provisionamento com Terraform { Deploy app serverless com cloudrun + loadBalance + Dns } na google 
-  - Confira o video contextualizando o resultado obtido 
+## Provisionamento com Terraform { Deploy App + ServerLess com Cloudrun + LoadBalancer + Dns } na google  GCP
+  - Confira o vídeo,  contextualizando o resultado obtido 
   
   __Pré-requesitos:__
-> Estar com as credenciais da sua conta exportadas no seu ambiente ou em um arquivo
+> Estar com as credenciais da sua conta exportadas no seu ambiente ou em um arquivo.json :
 
-> Alterar as variaveis nos arquivos de dns |  variables | provider de acordo com a sua necessidade
+> Alterar as variaveis nos arquivos de { dns |  variables | provider }  de acordo com a sua necessidade.
 
-> O roadmape resumo deste cenario pode ser visto seguindo o link abaixo
+> O road-map resumo deste cenario pode ser visto seguindo o link abaixo
 
 PArte 01 | 
 ------------ | ------------- | -------------

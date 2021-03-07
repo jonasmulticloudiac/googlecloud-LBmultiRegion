@@ -9,7 +9,7 @@
 ### terraform workspace new global
 
 > Selecionar o workspace desejado { region | global } e alterar as variaveis necessárias executando o arquivo script.sh 
-### terraform workspace select region  &&  script.sh__
+### terraform workspace select region  &&  ./script.sh
 
 > Alterar as variaveis nos arquivos de { dns |  variables | provider }  de acordo com a sua necessidade.
 
